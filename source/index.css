@@ -378,3 +378,10 @@ footer a {
 
 
 
+@media screen and (min-width: 558px) {
+ .div .img img{
+            width: 80%;
+            height: 170px;
+        }
+
+  }
